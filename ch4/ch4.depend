@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1767534294 source:d:\fushi\ch4\main.c
+	<stdio.h>
+	<stdlib.h>
+
