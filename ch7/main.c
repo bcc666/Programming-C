@@ -443,7 +443,7 @@ void Ex7_13(void){
 
 int main()
 {
-    Ex7_13();
+    Ex7_10();
     //printf("%d",Ex7_9(1999));
     /*Ex7_1
     int i;

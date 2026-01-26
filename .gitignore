@@ -1,0 +1,9 @@
+# 排除C语言编译产物
+*.exe
+*.o
+*.depend
+# 排除编译目录
+bin/
+obj/
+# 排除Code::Blocks的临时文件（如果有）
+*.cbp.user
